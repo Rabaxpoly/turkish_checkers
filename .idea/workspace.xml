@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="dama" targetName="dama" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de460b17-2a45-4827-8a2b-3293117f2d92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aJCI0zi4TbMELNC13jFJRqDXw0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dama" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="dama" TARGET_NAME="dama" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="dama" RUN_TARGET_NAME="dama">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de460b17-2a45-4827-8a2b-3293117f2d92" name="Default Changelist" comment="" />
+      <created>1586444225599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586444225599</updated>
+      <workItem from="1586444227758" duration="7687000" />
+      <workItem from="1586451953290" duration="4273000" />
+      <workItem from="1586614927740" duration="1635000" />
+      <workItem from="1586616652795" duration="583000" />
+      <workItem from="1586617990826" duration="629000" />
+      <workItem from="1586622149635" duration="1204000" />
+      <workItem from="1586779842461" duration="2038000" />
+      <workItem from="1586781892800" duration="362000" />
+      <workItem from="1586782266757" duration="690000" />
+      <workItem from="1586782968589" duration="219000" />
+      <workItem from="1586783197958" duration="283000" />
+      <workItem from="1586783493606" duration="1029000" />
+      <workItem from="1586795720364" duration="264000" />
+      <workItem from="1586795994823" duration="963000" />
+      <workItem from="1586798149954" duration="3999000" />
+      <workItem from="1586802167792" duration="7032000" />
+      <workItem from="1586876296841" duration="1052000" />
+      <workItem from="1586877359348" duration="9975000" />
+      <workItem from="1586890875852" duration="1502000" />
+      <workItem from="1586960186987" duration="2264000" />
+      <workItem from="1586962463713" duration="4146000" />
+      <workItem from="1586966839345" duration="673000" />
+      <workItem from="1586967522988" duration="10509000" />
+      <workItem from="1586979607761" duration="2281000" />
+      <workItem from="1586991998714" duration="4519000" />
+      <workItem from="1587002057515" duration="1979000" />
+      <workItem from="1587004060417" duration="371000" />
+      <workItem from="1587050926075" duration="747000" />
+      <workItem from="1587051684199" duration="7889000" />
+      <workItem from="1587143213773" duration="13454000" />
+      <workItem from="1587159197007" duration="883000" />
+      <workItem from="1587166844448" duration="158000" />
+      <workItem from="1587174735737" duration="2572000" />
+      <workItem from="1587177325549" duration="2224000" />
+      <workItem from="1587218341010" duration="3220000" />
+      <workItem from="1587242252448" duration="1079000" />
+      <workItem from="1587257476416" duration="2899000" />
+      <workItem from="1587260749436" duration="1898000" />
+      <workItem from="1587296485770" duration="5610000" />
+      <workItem from="1587324268559" duration="3383000" />
+      <workItem from="1587328171688" duration="2853000" />
+      <workItem from="1587333221161" duration="370000" />
+      <workItem from="1587346843777" duration="3063000" />
+      <workItem from="1587391793573" duration="10894000" />
+      <workItem from="1587414325297" duration="4089000" />
+      <workItem from="1587467305001" duration="18493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="306" key="FileDocumentManager.FileCacheConflict" timestamp="1587480715525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="306" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040@0.0.1920.1040" timestamp="1587480715525" />
+    <state width="1208" height="253" key="GridCell.Tab.0.bottom" timestamp="1587489488666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587489488666" />
+    <state width="1208" height="253" key="GridCell.Tab.0.center" timestamp="1587489488666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="253" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587489488666" />
+    <state width="1208" height="253" key="GridCell.Tab.0.left" timestamp="1587489488666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="253" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587489488666" />
+    <state width="1208" height="253" key="GridCell.Tab.0.right" timestamp="1587489488666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1208" height="253" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587489488666" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586444234494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586444234494" />
+    <state x="591" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1587145231500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587145231500" />
+    <state x="500" y="232" key="run.anything.popup" timestamp="1586995945595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="500" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586995945595" />
+  </component>
+</project>
